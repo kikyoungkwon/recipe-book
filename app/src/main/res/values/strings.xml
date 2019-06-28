@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+
+    <string name="common_button_ok">OK</string>
+
+    <string name="common_error_server">Sorry something went wrong. Please try again later.</string>
+    <string name="common_error_network">Sorry you seem to be offline. Please check your settings and try again</string>
+
+    <string name="menu_search">Search</string>
+
+    <string name="search_recipes">Please search recipes!!</string>
+    <string name="search_recipes_hint">Search Recipes</string>
+    <string name="search_not_found_results">Search results not found,\nplease try again.</string>
+
+    <string name="recipe_list_title">@string/app_name</string>
+    <string name="recipe_details_title">Recipe Details</string>
+
+    <string name="meal_area">Area:</string>
+    <string name="meal_category">Category:</string>
+    <string name="meal_instructions">Instructions:</string>
+</resources>
